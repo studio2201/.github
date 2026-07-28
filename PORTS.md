@@ -12,8 +12,7 @@ Canonical listen ports for all apps. **No collisions.**
 | **4404** | [trace](https://github.com/studio2201/trace) | Network / WHOIS / ASN |
 | **4405** | [grid](https://github.com/studio2201/grid) | Kanban |
 | **4406** | [pulse](https://github.com/studio2201/pulse) | System metrics |
-| **4407** | [statesync](https://github.com/studio2201/statesync) | Emby ↔ Jellyfin sync dashboard |
-| 4408–4410 | *(reserved)* | |
+| 4407–4410 | *(reserved)* | |
 
 ## Web games — `4501`–`4510`
 
@@ -25,11 +24,20 @@ Canonical listen ports for all apps. **No collisions.**
 | **4504** | [defend](https://github.com/studio2201/defend) | Space shooter |
 | 4505–4510 | *(reserved)* | |
 
+## Media services — `4601`–`4610`
+
+Media-stack sidecars and dashboards (not general web apps; not games).
+
+| Port | App | Notes |
+|-----:|-----|--------|
+| **4601** | [statesync](https://github.com/studio2201/statesync) | Emby ↔ Jellyfin watch-state sync dashboard |
+| 4602–4610 | *(reserved)* | |
+
 ## Rules
 
-1. **Container `EXPOSE` / `ENV PORT`** and **host `-p`** use the same number by default (`-p 4401:4401`).
+1. **Container `EXPOSE` / `ENV PORT`** and **host `-p`** use the same number by default (`-p 4401:4401`, `-p 4601:4601`).
 2. **Unraid templates**, **docker-compose**, **`.env.example`**, and **README** must match this table.
 3. Override with `PORT` (or `STATESYNC_BIND` / `TRACE_PORT` where used) when needed.
-4. **Do not** repurpose Emby/Jellyfin examples on **8096** — that is media-server port, not StateSync’s listen port.
+4. **Do not** repurpose Emby/Jellyfin examples on **8096** — that is the media server’s own port, not StateSync’s listen port.
 
-Last aligned: 2026-07-27.
+Last aligned: 2026-07-28.
