@@ -12,10 +12,10 @@ Canonical listen ports for all apps. **No collisions.**
 | **4404** | [trace](https://github.com/studio2201/trace) | Network / WHOIS / ASN |
 | **4405** | [grid](https://github.com/studio2201/grid) | Kanban |
 | **4406** | [pulse](https://github.com/studio2201/pulse) | System metrics |
-| **4407** | [habit](https://github.com/studio2201/habit) | Habit tracker / streaks *(planned)* |
+| **4407** | [habit](https://github.com/studio2201/habit) | Habit tracker / streaks |
 | **4408** | [mark](https://github.com/studio2201/mark) | Bookmarks |
-| **4409** | [poll](https://github.com/studio2201/poll) | Polls / quick votes *(planned)* |
-| **4410** | [probe](https://github.com/studio2201/probe) | Uptime / endpoint health *(planned)* |
+| **4409** | [poll](https://github.com/studio2201/poll) | Polls / quick votes |
+| **4410** | [probe](https://github.com/studio2201/probe) | Uptime / endpoint health |
 
 ## Web games — `4501`–`4510`
 
