@@ -20,6 +20,10 @@ Desktop Linux apps (including **Trance**) live at [crateria](https://github.com/
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/trace.png?v=1.0.31" width="32" height="32"> | **Trace** <br> Network diagnostic, WHOIS, IP, and ASN lookup. | [studio2201/trace](https://github.com/studio2201/trace) | `4404` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/grid.png?v=1.0.31" width="32" height="32"> | **Grid** <br> Clean, lightning-fast self-hosted Kanban board. | [studio2201/grid](https://github.com/studio2201/grid) | `4405` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/pulse.png?v=1.0.31" width="32" height="32"> | **Pulse** <br> Real-time system monitoring panel. | [studio2201/pulse](https://github.com/studio2201/pulse) | `4406` |
+| | **Habit** <br> Habit tracker / streaks. *(planned)* | [studio2201/habit](https://github.com/studio2201/habit) | `4407` |
+| | **Mark** <br> Self-hosted bookmarks. *(planned)* | [studio2201/mark](https://github.com/studio2201/mark) | `4408` |
+| | **Poll** <br> Polls and quick votes. *(planned)* | [studio2201/poll](https://github.com/studio2201/poll) | `4409` |
+| | **Probe** <br> Uptime / endpoint health checks. *(planned)* | [studio2201/probe](https://github.com/studio2201/probe) | `4410` |
 
 ## Web Games
 

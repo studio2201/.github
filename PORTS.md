@@ -12,7 +12,10 @@ Canonical listen ports for all apps. **No collisions.**
 | **4404** | [trace](https://github.com/studio2201/trace) | Network / WHOIS / ASN |
 | **4405** | [grid](https://github.com/studio2201/grid) | Kanban |
 | **4406** | [pulse](https://github.com/studio2201/pulse) | System metrics |
-| 4407–4410 | *(reserved)* | |
+| **4407** | [habit](https://github.com/studio2201/habit) | Habit tracker / streaks *(planned)* |
+| **4408** | [mark](https://github.com/studio2201/mark) | Bookmarks *(planned)* |
+| **4409** | [poll](https://github.com/studio2201/poll) | Polls / quick votes *(planned)* |
+| **4410** | [probe](https://github.com/studio2201/probe) | Uptime / endpoint health *(planned)* |
 
 ## Web games — `4501`–`4510`
 
@@ -40,4 +43,4 @@ Media-stack sidecars and dashboards (not general web apps; not games).
 3. Override with `PORT` (or `STATESYNC_BIND` / `TRACE_PORT` where used) when needed.
 4. **Do not** repurpose Emby/Jellyfin examples on **8096** — that is the media server’s own port, not StateSync’s listen port.
 
-Last aligned: 2026-07-28.
+Last aligned: 2026-07-28 (habit / mark / poll / probe claimed on 4407–4410).
