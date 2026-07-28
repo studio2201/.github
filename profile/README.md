@@ -6,6 +6,8 @@
 
 Self-hosted web services and games in Rust — containers first, Unraid-ready. Clean, secure, and blazing fast.
 
+**Default ports:** see [PORTS.md](../PORTS.md) — services `4401–4410`, games `4501–4510` (unique, no collisions).
+
 Desktop Linux apps (including **Trance**) live at [crateria](https://github.com/crateria).
 
 ## Web Services
@@ -18,7 +20,7 @@ Desktop Linux apps (including **Trance**) live at [crateria](https://github.com/
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/trace.png?v=1.0.31" width="32" height="32"> | **Trace** <br> Network diagnostic, WHOIS, IP, and ASN lookup. | [studio2201/trace](https://github.com/studio2201/trace) | `4404` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/grid.png?v=1.0.31" width="32" height="32"> | **Grid** <br> Clean, lightning-fast self-hosted Kanban board. | [studio2201/grid](https://github.com/studio2201/grid) | `4405` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/pulse.png?v=1.0.31" width="32" height="32"> | **Pulse** <br> Real-time system monitoring panel. | [studio2201/pulse](https://github.com/studio2201/pulse) | `4406` |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/statesync.png?v=1.0.31" width="32" height="32"> | **StateSync** <br> Real-time state-syncing media server. | [studio2201/statesync](https://github.com/studio2201/statesync) | `4601` |
+| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/statesync.png?v=1.0.31" width="32" height="32"> | **StateSync** <br> Real-time state-syncing media server. | [studio2201/statesync](https://github.com/studio2201/statesync) | `4407` |
 
 ## Web Games
 
