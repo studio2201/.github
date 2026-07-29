@@ -14,11 +14,7 @@ Desktop Linux apps (including **Trance**) live at [crateria](https://github.com/
 
 | Icon | Service & Description | Repository | Port |
 | :---: | :--- | :--- | :---: |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/beam.png?v=1.0.31" width="32" height="32"> | **Beam** <br> High-performance, secure self-hosted file sharing. | [studio2201/beam](https://github.com/studio2201/beam) | `4401` |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/pad.png?v=1.0.31" width="32" height="32"> | **Pad** <br> Collaborative real-time scratchpad. | [studio2201/pad](https://github.com/studio2201/pad) | `4402` |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/todo.png?v=1.0.31" width="32" height="32"> | **Todo** <br> Minimalist task management. | [studio2201/todo](https://github.com/studio2201/todo) | `4403` |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/trace.png?v=1.0.31" width="32" height="32"> | **Trace** <br> Network diagnostic, WHOIS, IP, and ASN lookup. | [studio2201/trace](https://github.com/studio2201/trace) | `4404` |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/grid.png?v=1.0.31" width="32" height="32"> | **Grid** <br> Clean, lightning-fast self-hosted Kanban board. | [studio2201/grid](https://github.com/studio2201/grid) | `4405` |
+
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/pulse.png?v=1.0.31" width="32" height="32"> | **Pulse** <br> Real-time system monitoring panel. | [studio2201/pulse](https://github.com/studio2201/pulse) | `4406` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/habit.png?v=1.0.32" width="32" height="32"> | **Habit** <br> Habit tracker / streaks. | [studio2201/habit](https://github.com/studio2201/habit) | `4407` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/mark.png?v=1.0.32" width="32" height="32"> | **Mark** <br> Self-hosted bookmarks. | [studio2201/mark](https://github.com/studio2201/mark) | `4408` |
