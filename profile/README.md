@@ -14,7 +14,6 @@ Desktop Linux apps (including **Trance**) live at [crateria](https://github.com/
 
 | Icon | Service & Description | Repository | Port |
 | :---: | :--- | :--- | :---: |
-
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/pulse.png?v=1.0.31" width="32" height="32"> | **Pulse** <br> Real-time system monitoring panel. | [studio2201/pulse](https://github.com/studio2201/pulse) | `4406` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/habit.png?v=1.0.32" width="32" height="32"> | **Habit** <br> Habit tracker / streaks. | [studio2201/habit](https://github.com/studio2201/habit) | `4407` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/mark.png?v=1.0.32" width="32" height="32"> | **Mark** <br> Self-hosted bookmarks. | [studio2201/mark](https://github.com/studio2201/mark) | `4408` |
